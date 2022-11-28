@@ -1,0 +1,28 @@
+#wrap {
+    width: 700px;
+    border: 5px dashed black;
+    margin: auto;
+    background-color: #f5f5de;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+li {
+    text-align: center;
+    list-style-type: none;
+    font-style: italic;
+}
+#wrap h1 {
+    border-bottom: 5px dashed black;
+    text-align: center;
+    font-style: italic;
+}
+p.copyright {
+    text-align: center;
+}
+body {
+    background-color: #daae85;
+}
+#text {
+    margin-left: 30px;
+    margin-right: 30px;
+}
